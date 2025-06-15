@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined LG Electronics CTO as an AI researcher.
+Joined LG Electronics CTO as an AI researcher. ✨
