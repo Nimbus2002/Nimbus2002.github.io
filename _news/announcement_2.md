@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I got my Master's degree from POSTECH :sparkles: :smile:
+Received my M.S. in Artificial Intelligence from POSTECH. :sparkles: :smile:
