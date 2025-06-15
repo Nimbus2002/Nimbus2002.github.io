@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received my M.S. in Artificial Intelligence from POSTECH. :sparkles: :smile:
+Received my M.S. in Artificial Intelligence from POSTECH. 🎓:smile:
