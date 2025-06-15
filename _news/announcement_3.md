@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started work as an AI researcher at LG Electronics CTO. 
+Joined LG Electronics CTO as an AI researcher.
