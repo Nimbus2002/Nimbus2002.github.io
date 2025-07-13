@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: AI Researcher 
-<!-- <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
+#<!-- <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. -->
 
 profile:
   align: right
@@ -12,7 +12,7 @@ profile:
   image_circular: false # crops the image to make it circular
   
   address: 
-     <!--Seoul, Korea-->
+ #    <!--Seoul, Korea-->
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
