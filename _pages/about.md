@@ -7,7 +7,7 @@ subtitle: AI Researcher
 
 profile:
   align: right
-  image: ellen3.jpg
+  image: ellen2.jpg
   #image_circular: true # crops the image to make it circular
   image_circular: false # crops the image to make it circular
   
